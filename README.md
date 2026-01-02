@@ -30,14 +30,14 @@ Sou um desenvolvedor apaixonado por criar **Websites, Landing Pages, Sistemas e 
 ### 🏨 [Hotel Sul América](https://github.com/gabrielmco/hotel-sul-america)
 Landing page institucional moderna, desenvolvida para apresentação do hotel e captação de reservas.
 <br>
-<a href="https://hotel-sul-america.vercel.app/" target="_blank">
+<a href="https://hotel-sul-america-q62u-git-main-gabriels-projects-94502409.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Site_Online-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 ### 💰 [Gestor de Vendas (FiadoApp)](https://github.com/gabrielmco/FiadoApp)
 Sistema completo para controle de vendas e gestão de clientes (vendas a prazo/fiado).
 <br>
-<a href="https://hotel-sul-america-q62u-oiz58g5qm-gabriels-projects-94502409.vercel.app/" target="_blank">
+<a href="https://fiado-app-fo4h-gyajkeajq-gabriels-projects-94502409.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Ver_App_Online-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
